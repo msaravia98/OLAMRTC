@@ -24,7 +24,7 @@
 
 https://user-images.githubusercontent.com/14284928/217976649-b8c72a52-9ed4-4757-a568-ea3580ccecd7.mov
 
-2. Clonar Repositorio Git https://github.com/whiplash0104/Race-to-the-Cloud.git
+2. Clonar Repositorio Git https://github.com/whiplash0104/Race-to-the-Cloud-Infra.git
 
 
 https://user-images.githubusercontent.com/14284928/217976766-5c5407ea-f329-499f-acd2-8d8b02d82e07.mov
