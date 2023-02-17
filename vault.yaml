@@ -1,10 +1,10 @@
-compartment_ocid: 'ocid1.compartment.oc1..aaaaaaaaqnh5zwkjdx2gsk57blgdl7rvt5rvr7fvwjs35ckliualcdpegy3a'
-user_ocid: 'ocid1.user.oc1..aaaaaaaagjtze5x6rdh2xa4ol5zmtw3m44cdwzgwreq7lnznvsjf54ixsbsa'
-usuario_oci: "axmdrz5zetbw/oracleidentitycloudservice/felipe.basso@oracle.com"
+compartment_ocid: 'ocid1.compartment.oc1..aaaaaaaakhwq6p77cp7ihnfafy5tylillb7g6fsqwm2umss2h4teymgljlnq'
+user_ocid: 'ocid1.user.oc1..aaaaaaaai7ykhgnhfzdepwaibdluevh4syesjw2td2srrbk4ceybjj6ul5ka'
+usuario_oci: "oracleidentitycloudservice/m.saravia@uniandes.edu.co"
 registry_url: "scl.ocir.io"
 token: "_#z]h#}#H>DOjdf41jH:"
-url_git: "https://github.com/whiplash0104/Race-to-the-Cloud-app.git"
-nombre_repo: "Race-to-the-Cloud-app"
+url_git: "https://github.com/msaravia98/OLAMRTC.git"
+nombre_repo: "OLAMRTC"
 namespace_repo: "axmdrz5zetbw"
 
 admin_password: 'TestContainerI_#123'
